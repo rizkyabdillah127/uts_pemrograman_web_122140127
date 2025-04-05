@@ -1,5 +1,3 @@
----
-
 ## 📝 Praktikum UTS: Aplikasi Web Posting dengan Fitur Favorite & Search
 
 ### 👤 Identitas
